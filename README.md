@@ -28,9 +28,9 @@
 </ul>
 
 <h2>Contact</h2>
-<p>Email: <a href="mailto:nade212ts023@gmail.comnadeem.akhtar212ts023@gmail.com</a></p>
+<p>Email: mailto:nadeem.akhtar212ts023@gmail.comnadeem.akhtar212ts023@gmail.com</a></p>
 <p>Phone: +91-958 2330 782</p>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/nadeem-akhtar9/linkedin.com/in/nadeem-akhtar-a35377179</a></p>
+<p>LinkedIn: https://www.linkedin.com/in/nadeem-akhtar-a35377179/linkedin.com/in/nadeem-akhtar-a35377179</a></p>
 
 </body>
 </html>
