@@ -30,7 +30,7 @@
 <h2>Contact</h2>
 <p>Email: mailto:nadeem.akhtar184@gmail.com</a></p>
 <p>Phone: +91-958 2330 782</p>
-<p>LinkedIn: https://www.linkedin.com/in/nadeem-akhtar-a35377179/linkedin.com/in/nadeem-akhtar-a35377179</a></p>
+<p>LinkedIn: https://www.linkedin.com/in/nadeem-akhtar-a35377179</a></p>
 
 </body>
 </html>
